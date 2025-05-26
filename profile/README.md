@@ -13,7 +13,7 @@ Hi, I'm **Saket Kumar Sinha** 👋
 ---
 
 🌟 **Project Highlights**
-- **MoodBoard-AI** — Instantly create mood boards with AI-generated images  
+- **MoodBoard-AI** — Instantly create mood boards with AI-generated videos 
   [Live](https://moodai-sks.netlify.app/) | [Code](https://github.com/sinha-19/MoodBoard-AI)
 - **Smart-Recipe-AI** — Your AI-powered creative cooking buddy  
   [Live](https://smart-recipe-ai-eosin.vercel.app) | [Code](https://github.com/sinha-19/Smart-Recipe-AI)
