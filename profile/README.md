@@ -1,8 +1,4 @@
 <h1 align="center">👋 Hi, I'm Saket Kumar Sinha</h1>
-<p align="center">
-  <b>he/him | Java & Front-End Developer | Generative AI Enthusiast</b><br>
-  <b>Final Year BTech CSE @ KIIT</b>
-</p>
 
 ---
 
@@ -13,17 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinha-19&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" height="170"/>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Final year Computer Science student at KIIT
-- 💻 Passionate about Java, TypeScript, React.js, Next.js, and impactful web applications
-- 🤖 Exploring the frontiers of Generative AI and AI-powered web apps
-- 🏆 Hackathon enthusiast & open-source contributor
-- 🕒 Always coding, always learning
-
----
 
 ## 🛠️ Tech Toolbox
 
@@ -40,47 +25,9 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- **[E-Commerce Website](https://github.com/sinha-19/E-Commerce-Website):** Modern shopping platform with TypeScript & React.js.<br>
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge&logo=netlify)](http://e-commerce-sks.netlify.app)
-
-- **[E-Learning Platform](https://github.com/sinha-19/E-Learning-Platform):** Interactive learning with Next.js & TypeScript.<br>
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge&logo=netlify)](https://e-learning-sks.netlify.app)
-
-- **[MoodBoard-AI](https://github.com/sinha-19/MoodBoard-AI):** Generative AI-powered mood board creator.<br>
-  [![Demo](https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://moodai-sks.netlify.app/)
-
-- **[Smart-Recipe-AI](https://github.com/sinha-19/Smart-Recipe-AI):** AI-driven recipe assistant.<br>
-  [![Demo](https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://smart-recipe-ai-eosin.vercel.app)
-
-- **[Bill Split](https://github.com/sinha-19/Bill-Split):** Simple group expense splitter.<br>
-  [![Demo](https://img.shields.io/badge/Demo-Visit-purple?style=for-the-badge&logo=vercel)](https://bill-split-gilt.vercel.app)
-
-<!-- You can add/remove projects above as your focus shifts! -->
-
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sinha-19&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌱 Learning & Interests
-
-- Generative AI (LLMs, image & text synthesis)
-- Advanced front-end frameworks
-- Cloud-native app deployment
-- UI/UX & design systems
-
----
-
-## 🗂️ More Activities
-
-- Solving coding challenges on [LeetCode](https://leetcode.com/u/imsaket123/)
-- Writing blogs on [Portfolio Website](https://sinha-19.github.io/Portfolio/#)
-- Active in hackathons, open-source, and developer communities
 
 ---
 
@@ -103,19 +50,6 @@
     <img src="https://img.shields.io/badge/Portfolio-222?logo=githubpages&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
----
-
-## ⚡ Fun Facts
-
-- 🎸 Coding, hackathons, and open-source collaborations energize me
-- 🏏 Cricket enthusiast, music lover, and lifelong learner
-- 📢 Always open for networking and new opportunities
-
----
-
-> “Code. Innovate. Repeat.”
-
 <!--
 Profile includes:
 - Dynamic stats, streaks, and language graphs (customize &exclude_repo as needed for accuracy)
