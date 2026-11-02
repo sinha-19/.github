@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Saket Kumar Sinha</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinha-19&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 <p align="center">
